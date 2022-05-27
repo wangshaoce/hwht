@@ -1,0 +1,7 @@
+/venv
+/.idea
+/log
+/crash-dump.log
+/test.py
+/.apk
+/static/app
